@@ -5,7 +5,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Requires a, C, Wo, fineness ratio, length of cockpit, and upsweep angle.
-% Returns fuselage length, maximum fuselage diameter, moment arm of horizontal tail,
+% Returns fuselage length, max fuselage diameter, moment arm of horizontal tail,
 % and volume of fuselage (using top and side area estimations).
 
 function [L_fus, D_max_fus, L_HT, V_fus] = ...
